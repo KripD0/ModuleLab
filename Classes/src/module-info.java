@@ -1,0 +1,3 @@
+module Classes {
+    exports rus;
+}
